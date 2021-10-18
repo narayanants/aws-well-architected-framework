@@ -1,0 +1,9 @@
+General Design Principles:
+-------------------------
+ - Automated fashion ensures consistency and reliability.
+ - Scale up and down as required.
+ - Testing at scale 
+ - Adapt the architecture as needed to meet new challenges
+ - Drive decision through data
+
+ 
