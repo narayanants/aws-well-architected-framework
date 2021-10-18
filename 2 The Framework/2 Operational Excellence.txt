@@ -1,0 +1,107 @@
+Operational Excellence:
+-----------------------
+
+    - Do your architecture work?
+    - All Operations are code
+    - Automation is Key
+    - Documentation is updated automatically
+    - Make small changes that you can rollback
+    - Iterate a lot
+    - Expect things to go sideways
+    - Learn from Failures and success
+
+
+    Three phases:
+    -----------
+
+        - Organize and Prepare
+        - Operate (Automate)
+        - Evolve
+
+
+Organize and Prepare:
+--------------------
+
+     - Organization Priorities
+     - Operating Model
+     - Culture of the Organization
+
+
+Evaluate:
+--------
+
+    - Internal and customer needs
+    - Compliance requirements
+    - Governance structure
+    - The threat landscape
+    - Any applicable trade-offs
+
+
+Operate:
+-------
+
+    - Application Engineering
+    - Platform Engineering
+    - Relationalship and ownership
+    - Teams are empowered to solve problems
+    - Teams are allowed to grow their skills
+
+Prepare:
+--------
+    - Telemetry, Monitoring and observability
+    - Information Flow
+    - Deployment risk mitigation
+    - CI/CD
+    - Operational Readiness
+
+Deployment:
+-----------
+
+     - Plan for Failure
+     - Test, Test and Test again
+     - Systems over people 
+     - Frequent small changes
+     
+Get Ready:
+---------
+
+     - Team is available
+     - Runbooks....no excuses
+
+
+Operate and Evolve:
+-------------------
+    
+    - Health of your workloads
+    - Respond to events
+
+
+Understand?
+------------
+
+     - Key performance indicators
+     - Collect and Analyze metrics
+     - Use smart, actionable alerts
+     - Validate those results
+     - Automate as much as possible
+
+
+Constant improvement:
+----------------------
+
+    - Constantly improve
+    - Validate insights
+    - 
+
+
+    Operations is not an isolated principle.
+
+    
+
+
+
+
+
+
+
+    
