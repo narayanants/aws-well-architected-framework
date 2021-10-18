@@ -1,0 +1,56 @@
+5 Pillars:
+----------
+
+ - Operational Excellence
+ - Security
+ - Cost Optimization
+ - Reliability
+ - Performance Efficiency
+
+
+ Operational Excellence:
+ -----------------------
+ 
+    - All Operations are code
+    - Automation is Key
+    - Documentation is updated automatically
+    - Make small changes that you can rollback
+    - Iterate a lot
+    - Expect things to go sideways
+    - Learn from Failures and success
+
+
+Security:
+---------
+
+    - Identity has least privileges
+    - Know who did what when
+    - Security is woven into the fabric of the system
+    - Encrypt data at rest and in transit
+    - Prepare for the worst
+
+
+Cost Optimization:
+------------------
+
+    - Consumption based pricing
+    - Measure Efficiency consistently
+    - Let AWS do the work whenever possible
+
+
+Reliability:
+-----------
+
+     - Automated everything
+     - Scale horizontally
+     - Reduce idle resources
+     - Manage changes through Automation
+
+
+Performance Efficiency:
+-----------------------
+
+    - Let AWS do the work whenever possible
+    - Reduce latency through edge and regions
+    - Serverless FTW!
+    - Experimenting new services
