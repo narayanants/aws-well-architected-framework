@@ -1,0 +1,22 @@
+Introduction:
+-------------
+
+ - Intro to Well Architected Framework
+ - WAF is not a blueprint
+ - WAF is a set of principles
+ - WAF is regularly updated
+
+ 5 Pillars:
+ ---------
+
+     - Operational Excellence
+     - Security
+     - Cost Optimization
+     - Reliability
+     - Performance Efficiency
+
+
+ - Apply WAF principles to solutions
+ 
+
+
