@@ -1,0 +1,148 @@
+Security:
+---------
+
+    - Is your workload is working as intended
+    - Security is the ability to protect data, system and assets
+
+
+
+    - Identity - Should have least privileges as possible 
+    - Who did what when
+    - Encrypt data at rest and in transit
+    - 
+
+5 Major Principles:
+-------------------
+
+    - Identity and Access
+    - Detective control
+    - Infra Protection
+    - Data Protection
+    - Incident Response
+
+
+
+Security - Identity:
+--------------------
+
+    - Accounts
+    - Human and machine identities
+    - Managing Permissions
+
+
+Accounts:
+---------
+
+    - Best way to setup Hard Boundary
+    - AWS Organizations
+    - Standardize Configurations
+    - Centralized Resources
+
+    - Manage with groups and attributes
+    - User strong login (MFA) and Roles
+    - Audit and Rotate credentials
+
+
+    Permissions:
+    -------------
+
+        - Deny and Allow
+        - Setup Guardrails
+        - Reduce Permissions often
+        - Analyze cross account and permission process 
+    
+
+Detection:
+----------
+
+    - Configure
+    - Monitor
+    - Investigate
+    - 
+
+    - Turn on Logging
+    - Analyze logs centrally
+    - Manage the log lifecycle
+    
+
+
+    - observability
+    - Automated behavioural Monitoring
+    - Traceability is the Key
+    - Health Monitoring
+
+
+Investigating - figuring out what happend
+
+    - Automatic Responses
+    - Learn and prevent
+
+
+
+Infra and Data:
+---------------
+ 
+    - Does your workload works as intended
+    - Protecting Networks
+    - Protecting Compute
+
+
+    - Use subnets for layering
+    - Control traffic between layers
+    - Inspect and protect
+    - Automate all controls
+    - Automation is king
+
+    - Safe processing
+    - Manage vunerabilities
+    - Reduce attack surface
+    - Systems over people
+    - Managed systems whenever possible - Efficiency
+    - Automate all controls
+
+
+
+    Data:
+    -----
+
+         - Classifitcation
+         - Data at rest
+         - Data in transit
+         - Identify and locate data
+         - Determine protection requirements
+         - Map out data lifecycle
+         - Automate identification and classification
+
+         - Enforce encryption at rest
+         - Managing encryption keys and policies
+         - lockdown access controls
+         - Keep people away from data ;)
+         - Automate all controls
+
+         - Enforce encryption at transit
+         - Manage certificates and keys
+         - Authenticate network paths
+
+
+Incident Response:
+-----------------
+
+    - Workload works only as Incident
+    - if not, that may kickoff an Incident
+    - Educate,prepare and simulate
+
+
+    - Identify the key players
+    - Create and incident reponse Plan
+    - Pre-provision access
+    - Get the tools ready
+    - Setup forensics ahead of time
+
+
+    - Run game days
+    - Find rough spots
+    - Iterate
+    
+
+
+
