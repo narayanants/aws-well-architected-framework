@@ -1,7 +1,7 @@
 Operational Excellence:
 -----------------------
 
-    - Do your architecture work?
+    - Does your architecture work?
     - All Operations are code
     - Automation is Key
     - Documentation is updated automatically
