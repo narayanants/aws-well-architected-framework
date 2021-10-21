@@ -82,7 +82,7 @@ Investigating - figuring out what happend
 Infra and Data:
 ---------------
  
-    - Does your workload works as intended
+    - Does your workload work as intended
     - Protecting Networks
     - Protecting Compute
 
@@ -142,7 +142,7 @@ Incident Response:
     - Run game days
     - Find rough spots
     - Iterate
-    
+
 
 
 
