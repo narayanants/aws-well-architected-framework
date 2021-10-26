@@ -1,0 +1,28 @@
+Cost Optimization:
+-------------------
+
+     - Efficieny
+     - Biggest bang for the buck
+     - Pay as you go pricing
+
+     - Let AWS do the work whenever possible
+
+     - Matching supply and demand
+     - Optimizing Spend
+     - Maximizing value
+
+
+Finance and Value:
+-----------------
+
+    - Who has ownership
+    - Budgets and Forecast
+    - Aware of the cost as some services are very expensive
+    - Responsibility
+    - 
+
+
+
+
+
+
