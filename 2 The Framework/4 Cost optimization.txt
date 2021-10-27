@@ -19,7 +19,77 @@ Finance and Value:
     - Budgets and Forecast
     - Aware of the cost as some services are very expensive
     - Responsibility
-    - 
+
+    - Delivering value for the buck
+    - Be aware of the cost
+
+    - Responsibility
+    - Partner with Finance Team
+    - Create an budget and Forecast
+    - Emphasize cost as a design consideration
+    - Keep up-to-date with new services
+
+
+    Expenditure and usage awareness:
+    --------------------------------
+
+     - Create org policies
+     - Have clear target and goals
+     - Structure accounts
+     - Set appropriate controls
+     
+
+     Trace usage:
+     ------------
+
+          - Configure  detailed source data
+          - Establish baselines
+          - Context is critical in cost Optimization
+          - APN
+
+          - Have to remove Resources
+          - Automated Cleanup
+          - Maximizing Value
+
+     Managing Resources:
+     -------------------
+
+      - Biggest bang for the buck
+      - Cost as a selection criteria
+      - Sizing
+      - Data Transfer
+      
+
+      Smart Choices:
+      --------------
+
+          - Identify key requirements
+          - Managed services first
+          - Watchout for licensing costs
+          - Not too big, not too small
+          - Model costs iteratively
+          - Choose the right pricing Model
+          - Leverage the savings plan
+
+
+          Data Costs:
+          -----------
+
+          - A To B  pricing
+          - Demand
+          - Dynamic supply
+
+
+     Automated Service:
+     -----------------
+
+          - Meet demand automatically
+          - 
+          
+     
+
+
+
 
 
 
