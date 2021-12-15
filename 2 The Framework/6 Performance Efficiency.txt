@@ -1,0 +1,40 @@
+Performance Efficieny:
+----------------------
+
+ - Biggest bang for the buck - Efficieny
+ - Let AWS do the work for you
+ - Reduce latency using Edge
+ - Serverless FTW
+ - Experiment new services that are released
+ -
+
+
+  - Selection
+  - Review
+  - Monitor
+
+  - Continuous long term process
+  
+
+  Removing Bottlenecks and reducing waste
+
+
+
+  Performance architecture - Speed
+  Compute - Lambda, containers and VM's
+  Storage - block, object, file system, archival
+  Database - understanding read and write characteristics
+  Network  - Understand the connection between resources
+
+
+  Monitoring and Tradeoffs:
+  -------------------------
+
+ - Situational Awareness - Monitoring
+ - Data Driven Tradeoffs - Performance for the workload
+
+
+ 
+ 
+
+
