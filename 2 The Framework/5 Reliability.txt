@@ -1,0 +1,96 @@
+Reliability:
+------------
+
+    Ability to Bounce  back
+    Recover from issues automatically
+    Scale horizontally for resilliency
+    Reduce idle resources
+
+    Workloads that meets business requirements,regardless
+
+    Limits
+    Networking
+    Availability
+
+
+    Building on strong foundation
+    Strong Network Topology
+    Highly available
+    Redundancy
+    Manage your IP address
+    Hub and spoke designs
+    Service Quotas
+
+
+
+
+    Areas of Focus
+    --------------
+    
+     - Service oriented Architecture
+     - Design to prevent failure
+
+
+     - Segment your workload smartly
+     - Provide service contracts via an API
+     - What kind of distributed systems fits the purpose
+     - Loosely couple dependencies when possible
+     - responses are always idempotent
+     - Do constant work
+
+
+     Plan to Fail:
+     -------------
+
+        - Degrade systems gracefully
+        - Throttle requests when necessary
+        - Implement a smart retry system
+        - Fail fast and limit queues
+        - Stateless usually wins
+
+    
+    Backups and Restore:
+    --------------------
+
+     - What can be backed up and what can recreated
+     - Automating backup and Restore
+
+
+     - Deploy your resources to multiple locations
+     - Automate recovery within a single location
+     - use bulkheads to stop cascade failure
+
+     - Monitor all componenets for failures
+     - Use static stability
+     - Notify teams for impact Availability
+
+
+     Test and Practice:
+     ------------------
+
+         - Playbooks
+         - blame-free-incident-analysis
+         - Test functional requirements
+         - 
+
+
+    Plan Ahead (Disastor Recovery)
+         - Test and Practice
+         - Manage config drift
+         - Automate everything
+
+         - End to end tracing
+         - Adapt to changes quickly
+         - Smart alerts that are actionable
+         - Longer term analytics
+         - Regular Reviews
+         - Scale resources automatically
+         - Scale out based on demand
+         - Load Testing
+         
+
+
+     Automated everything:
+     --------------------
+        - Automate all things
+
