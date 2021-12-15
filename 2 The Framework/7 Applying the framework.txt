@@ -1,0 +1,16 @@
+Applying the Framework:
+-----------------------
+
+    - Idenitfy the balance for your workload
+    - 
+
+
+    - What are your Business priorities
+    - What is the worst possible scenario
+    - What are your immovable constraints
+    - What data is the solution processing
+    - What skills does your team have
+    - Whats the timeline for this project
+
+    
+    
